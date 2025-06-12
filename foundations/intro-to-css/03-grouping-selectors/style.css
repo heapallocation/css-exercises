@@ -1,0 +1,16 @@
+/*styles*/
+
+.yes-button {
+    background-color: deeppink;
+}
+
+.no-button {
+    background-color: black;
+}
+
+.yes-button,
+.no-button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+    color: white;
+}
